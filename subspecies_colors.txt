@@ -1,0 +1,2 @@
+Lactococcus lactis subsp. lactis	0.0	1.0	0.0
+Lactococcus lactis subsp. cremoris	0.0	0.0	1.0
